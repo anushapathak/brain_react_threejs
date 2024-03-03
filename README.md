@@ -1,10 +1,16 @@
-# brain_react_threejs
-Brain Module 2.0 Experiment Three.js 
+# React Three.js Brain Animation
 
-## demo
+## Installation
 
-## How to install
-
-- Run `npm install`
-- Run `npm run dev`
-- Open http://localhost:8080
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anushapathak/brain_react_threejs.git
+   ```
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the app:
+   ```bash
+   npm run dev
+   ```
